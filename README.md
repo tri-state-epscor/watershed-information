@@ -1,4 +1,4 @@
-watershed-information
+WC-WAVE Watershed Information
 =====================
 
-Watershed Information
+Please visit the wiki for detailed watershed and model information.
